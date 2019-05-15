@@ -8,7 +8,7 @@ $password = "Kebusukan";
 $collor = "1";
 
 // Pilih Jumlah Spin Saran 1 - 5
-$amount = "4";
+$amount = "2";
 
 
 
