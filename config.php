@@ -1,7 +1,7 @@
 <?php
 
-$email = "nujum.gaming@gmail.com";
-$password = "Kebusukan";
+$email = "";
+$password = "";
 
 
 //Pillih Warna 0 untuk hijau 1 untuk kuning
